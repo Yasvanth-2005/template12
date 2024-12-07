@@ -6,7 +6,7 @@ const App = () => {
 
   return (
     <>
-      <div className={`w-full ${show ? "" : "hidden"}`}>okok</div>
+      <div className={`w-full ${show ? "" : "hidden"}`}>ok</div>
     </>
   );
 };
